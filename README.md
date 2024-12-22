@@ -6,8 +6,8 @@ GymPass style app.
 
 <lu>
     <li>[ ] - Deve ser possivel se cadastrar;</li>
-    <li>[ ] - Deve ser possivel se autenticar;</li>
-    <li>[ ] - Deve ser possivel obter um perfil de um usuario logado;</li>
+    <li>[x] - Deve ser possivel se autenticar;</li>
+    <li>[x] - Deve ser possivel obter um perfil de um usuario logado;</li>
     <li>[ ] - Deve ser possivel obter o numero de chekins realizado pelo o usuario logado;</li>
     <li>[ ] - Deve ser possivel se o usuario obter seu historico de chekins;</li>
     <li>[ ] - Deve ser possivel ser possivel o usuario buscar academias proximas;</li>
@@ -27,7 +27,7 @@ GymPass style app.
     <li>[ ] - A cademia so pode ser cadastrada por adiminastradores;</li>
 </lu>
 
-##requisitos nao funcionais
+## Requisitos nao funcionais
 
 <lu>
     <li>[ ] - A senha do usuario precisa estar criptografada;</li>
